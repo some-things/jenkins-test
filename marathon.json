@@ -16,5 +16,5 @@
   "fetch": [],
   "constraints": [],
   "cpus": 0.1,
-  "cmd": "sleep infinity"
+  "cmd": "echo \"hello\" && sleep infinity"
 }
