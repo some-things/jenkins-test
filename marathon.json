@@ -11,7 +11,7 @@
       "parameters": []
     }
   },
-  "cpus": 0.1,
+  "cpus": 1,
   "disk": 0,
   "healthChecks": [
     {
