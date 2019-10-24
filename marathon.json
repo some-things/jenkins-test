@@ -16,5 +16,5 @@
   "fetch": [],
   "constraints": [],
   "cpus": 0.1,
-  "cmd": "fail"
+  "cmd": "sleep infinity"
 }
